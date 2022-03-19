@@ -27,6 +27,7 @@ void almacenar(tickets info){
     cout << "Identificacion "<<id<<endl;
     cout << "Correo electronico: "<<email<<endl;
     cout << "Carrera que estudia: "<<carrera<<endl;
+    cout << "\nCategoria de ticket: "<<cat<<endl;
     cout << "Mensaje: "<<mess<<endl;
 }
 
